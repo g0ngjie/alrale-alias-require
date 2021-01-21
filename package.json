@@ -5,14 +5,14 @@
   "main": "lib/index.js",
   "typings": "types/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g0ngjie/alrale-alias-require.git"
   },
   "author": "Gj <gongjie0422@163.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/g0ngjie/alrale-alias-require/issues"
   },
