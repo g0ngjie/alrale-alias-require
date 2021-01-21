@@ -1,0 +1,24 @@
+{
+  "name": "@alrale/alias-require",
+  "version": "1.0.0",
+  "description": "alias require",
+  "main": "lib/index.js",
+  "typings": "types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g0ngjie/alrale-alias-require.git"
+  },
+  "author": "Gj <gongjie0422@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g0ngjie/alrale-alias-require/issues"
+  },
+  "homepage": "https://github.com/g0ngjie/alrale-alias-require#readme",
+  "files": [
+    "lib",
+    "types"
+  ]
+}
