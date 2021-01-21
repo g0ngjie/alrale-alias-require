@@ -1,6 +1,6 @@
 {
   "name": "@alrale/alias-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "alias require",
   "main": "lib/index.js",
   "typings": "types/index.d.ts",
